@@ -1,0 +1,39 @@
+/* ContactForm.module.css */
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.input {
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+
+.number-input {
+  margin-top: 8px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #45a049;
+}

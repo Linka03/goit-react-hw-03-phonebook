@@ -1,0 +1,15 @@
+.filterContainer {
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.filterInput {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
